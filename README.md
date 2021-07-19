@@ -6,6 +6,6 @@ This is the basic implementation of Snake where the user moves the snake around 
 
 CIS 120, Fall 2020
 
-*This is the main screen. Note, there are other screens for instructions, high scores, and input requests (regarding usernames and amount of food to display)
+*This is the main screen. Note, there are other screens for instructions, high scores, and input requests (regarding usernames and amount of food to display)*
 
 <img width="302" alt="Screen Shot 2021-07-18 at 8 26 19 PM" src="https://user-images.githubusercontent.com/68198839/126089854-096e246b-93f7-4999-a411-6cabfc80d526.png">
